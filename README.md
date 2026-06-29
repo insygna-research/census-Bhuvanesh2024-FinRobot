@@ -22,8 +22,6 @@
 
 [Whitepaper of FinRobot](https://arxiv.org/abs/2405.14767)
 
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=AI4Finance-Foundation&repo=FinRobot&countColor=%23B17A)
-[![Discord](https://dcbadge.limes.pink/api/server/trsr8SXpW5?v=20260320)](https://discord.gg/trsr8SXpW5)
 
 ## 🎬 FinRobot Pro — Your Personal AI-Powered Equity Research Assistant
 🌐 https://finrobot.ai/
